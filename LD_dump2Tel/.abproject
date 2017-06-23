@@ -1,0 +1,45 @@
+{
+  "ProjectName": "LD_dump2Tel",
+  "ProjectGuid": "62b5bb94-c1f1-4e2b-a86a-c4769ad751f5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.LDdump2Tel",
+  "DisplayName": "LD_dump2Tel",
+  "Author": "",
+  "Description": "LD_dump2Tel",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{91cd59b2-bdee-4716-a99f-ad17f24e1675}",
+  "WP8ProductID": "{a7a949b2-df56-4283-986d-2dbb462a14c0}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.LDdump2Tel",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
